@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ashiklawrence
-- 👀 I’m interested on an internship
+- 👀 I’m interested on web development 
+- 💻 I'm currently on an internship 
 - 🌱 I’m currently learning Django
-- 💡  I,m a computer science graduate
+- 💡 I,m a computer science graduate
 
 <!---
 Ashiklawrence/Ashiklawrence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
